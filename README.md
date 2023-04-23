@@ -31,3 +31,6 @@ Same as usage instructions. So: "node ".
 
 ## Do you have any questions
 Don't esitate to reach me at my GitHub (Purplelume) or reach out at my email address: sample.gmail.com
+
+## Video Walktrought
+[Link to the video](https://drive.google.com/file/d/1HqnI-FNCR1hKD7nYlJNygxgcH174OWRK/view)

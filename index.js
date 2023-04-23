@@ -40,7 +40,7 @@ const questions = function() {
       },
       {
         type: 'input',
-        message: 'Enter the color of your text:',
+        message: 'Enter the color of your text (OR a hexadecimal number):',
         name: "textColor"
       },
       {
@@ -51,13 +51,13 @@ const questions = function() {
       },
       {
         type: 'input',
-        message: 'Enter the desired shape color:',
+        message: 'Enter the desired shape color (OR a hexadecimal number):',
         name: "shapeColor"
       },
 ])
 .then((data) =>
     fs.writeFile(`logo.svg`, shapes(data), (err) =>
-    err ? console.error(err) : console.log('Logo created!')
+    err ? console.error(err) : console.log('Generated logo.svg')
     ))
 };
 
