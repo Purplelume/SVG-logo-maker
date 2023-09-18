@@ -1,36 +1,70 @@
-# SVD-logo-maker 
+# SVD Logo Maker
 
-![License Badge](https://shields.io/badge/license-MIT-blue)
+![License Badge](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description
-This project is about creating a simple SVD logo with javascript.
 
-### Table of Contents:
+The SVD Logo Maker project focuses on creating a logo using JavaScript.
+
+### Table of Contents
+
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contributing](#contributions)
-* [Tests](#tests)
-* [Questions](#do-you-have-any-questions)
+* [Contributions](#contributions)
+* [Testing](#testing)
+* [Questions](#questions)
+* [Video Walkthrough](#video-walkthrough)
 
-## Installation  
-You must download node.js, inquirer.js and jest.js
+## Installation
+
+To begin, ensure you have the following dependencies installed:
+
+- [Node.js](https://nodejs.org/)
+- [Inquirer.js](https://www.npmjs.com/package/inquirer)
+- [Jest.js](https://jestjs.io/)
+
+Follow these steps:
+
+1. Install project dependencies by running `npm install`.
 
 ## Usage
-You should run "node index.js" in the terminal on the correct folder. Then the terminal will start asking you questions. Simply answer to them.
+
+To create an SVD logo, follow these steps:
+
+1. Run the command `node index.js` in your terminal from the project's directory.
+
+2. The terminal will prompt you with questions. Simply provide your answers.
 
 ## License
-https://mit-license.org/
+
+This project is licensed under the [MIT License](https://mit-license.org/).
 
 ## Contributions
-Copy the repositories on your computer, make the changes you want to make, and then do a pull request on my GitHub.
 
-## Tests
-Do as shown here to test the application:
-Same as usage instructions. So: "node index.js" in the terminal on the correct folder.
+To contribute to this project, follow these steps:
 
-## Do you have any questions
-Don't esitate to reach me at my GitHub [Purplelume](https://github.com/Purplelume) or reach out at my email address: sample.gmail.com
+1. Clone the repository to your local machine.
 
-## Video Walktrought
-[Link to the video](https://drive.google.com/file/d/1HqnI-FNCR1hKD7nYlJNygxgcH174OWRK/view)
+2. Make the desired changes or enhancements.
+
+3. Submit a pull request on [GitHub](https://github.com/Purplelume).
+
+## Testing
+
+To test the application, follow these steps:
+
+1. Run the command `node index.js` in the terminal from the project's directory.
+
+2. Answer the questions as prompted.
+
+## Questions
+
+If you have any questions or require assistance, please don't hesitate to reach out:
+
+- GitHub: [Purplelume](https://github.com/Purplelume)
+- Email: simone.monari23@gmail.com
+
+## Video Walkthrough
+
+For a detailed walkthrough of the SVD Logo Maker project, check out the [video tutorial](https://drive.google.com/file/d/1HqnI-FNCR1hKD7nYlJNygxgcH174OWRK/view).
